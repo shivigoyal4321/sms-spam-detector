@@ -17,8 +17,8 @@ If not available locally, download and save it as mail_data.csv.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spam-detection-ml.git
-   cd spam-detection-ml
+   git clone https://github.com/shivigoyal4321/sms-spam-detector.git
+   cd sms-spam-detector
 
 # 🧪 Sample Output
 
